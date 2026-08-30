@@ -1,0 +1,1 @@
+{"name":"Local: 2000A","url":"/home/okil/Desktop/cp/2000A.cpp","tests":[{"id":1787170386578,"input":"7\n100\n1010\n101\n105\n2033\n1019\n1002\n","output":"NO\nYES\nNO\nYES\nNO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/okil/Desktop/cp/2000A.cpp","group":"local","local":true}
