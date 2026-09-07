@@ -1,0 +1,1 @@
+{"name":"Local: ous","url":"/home/okil/Desktop/cp/ous.cpp","tests":[{"id":1788782312682,"input":"3\n0.5 0.5 0.5\n","output":"2.750000000000000\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/okil/Desktop/cp/ous.cpp","group":"local","local":true}
