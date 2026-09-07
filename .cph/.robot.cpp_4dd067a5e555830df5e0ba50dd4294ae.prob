@@ -1,0 +1,1 @@
+{"name":"Local: robot","url":"/home/okil/Desktop/cp/robot.cpp","tests":[{"id":1788807796893,"input":"UURR\nLR\nLDRLDU","output":"(2, 2)\nNo\n(0, 0)\nYes\n(-1, -1)\nYes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/okil/Desktop/cp/robot.cpp","group":"local","local":true}
